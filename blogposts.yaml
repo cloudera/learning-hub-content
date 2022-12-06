@@ -1,4 +1,14 @@
 ---
+- title: Cloudera's Applied ML Prototype Catalog Continues to Grow
+  description: The hardworking team at Cloudera’s Fast Forward Labs has hit it out of the park once again! We are happy to announce the release of two new AMPs - Video Classification and Continuous Model Monitoring -- including video demos of how each of them work! 
+  category: Blogpost
+  tags:
+    - cml
+    - ml
+    - ffl
+  link: https://blog.cloudera.com/clouderas-applied-ml-prototype-catalog-continues-to-grow/
+  imgpath: https://clouderablog.wpenginepowered.com/wp-content/uploads/2022/06/Screen-Shot-2022-06-10-at-9.40.53-AM.png
+  date: "2022-06-10T00:00:00Z"
 - title: Ethical Considerations When Designing an NLG System
   description: This post serves as Part 4 of a four part blog series on the NLP task of Text Style Transfer. In this final post, we discuss some ethical considerations when working with natural language generation systems and describe the design of our prototype application, "Exploring Intelligent Writing Assistance."
   category: Blogpost
@@ -51,16 +61,6 @@
   link: https://blog.fastforwardlabs.com/2022/11/14/implementing-cyclegan.html
   imgpath: https://blog.fastforwardlabs.com/images/hugo/Screen_Shot_2022-10-18_at_3.06.46_PM-1668023835.png
   date: "2022-11-14T00:00:00Z"
-- title: Cloudera's Applied ML Prototype Catalog Continues to Grow
-  description: The hardworking team at Cloudera’s Fast Forward Labs has hit it out of the park once again! We are happy to announce the release of two new AMPs - Video Classification and Continuous Model Monitoring -- including video demos of how each of them work! 
-  category: Blogpost
-  tags:
-    - cml
-    - ml
-    - ffl
-  link: https://blog.cloudera.com/clouderas-applied-ml-prototype-catalog-continues-to-grow/
-  imgpath: https://clouderablog.wpenginepowered.com/wp-content/uploads/2022/06/Screen-Shot-2022-06-10-at-9.40.53-AM.png
-  date: "2022-06-10T00:00:00Z"
 - title: The Power of Exploratory Data Analysis and Visualization for ML
   description: How to use the new Data Discovery and Visualization feature in Cloudera Machine Learning
   category: Blogpost
