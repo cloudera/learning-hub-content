@@ -1,4 +1,56 @@
 ---
+- title: Ethical Considerations When Designing an NLG System
+  description: This post serves as Part 4 of a four part blog series on the NLP task of Text Style Transfer. In this final post, we discuss some ethical considerations when working with natural language generation systems and describe the design of our prototype application, "Exploring Intelligent Writing Assistance."
+  category: Blogpost
+  tags:
+    - cml
+    - ml
+    - ffl
+    - nlp
+  link: https://blog.fastforwardlabs.com/2022/07/29/ethical-considerations-when-designing-an-nlg-system.html
+  imgpath: https://blog.fastforwardlabs.com/images/hugo/image1-tst4.png
+  date: "2022-07-29T00:00:00Z"
+- title: Thought experiment: Human-centric machine learning for comic book creation
+  description: Our newest research engineer, Mike Gallaspy, lightheartedly speculates on using machine learning techniques for creating comic book art in his first blog post. Take a peek and enjoy some of his hand-drawn illustrations!
+  category: Blogpost
+  tags:
+    - cml
+    - ml
+    - ffl
+    - cv
+  link: https://blog.fastforwardlabs.com/2022/09/08/thought-experiment-human-centric-machine-learning-for-comic-book-creation.html
+  imgpath: https://blog.fastforwardlabs.com/images/hugo/comic_book_system_diagram-1661796106.png
+  date: "2022-09-08T00:00:00Z"
+- title: Ethics Sheet for AI-assisted Comic Book Art Generation
+  description: This article is a simplified take on an ethics sheet for the task of AI-assisted comic book art generation, inspired by “Ethics Sheets for AI Tasks.” In it, we take a look at some of the ethical considerations involved in the creation and utilization of a state-of-the-art AI system for generative art creation.
+  category: Blogpost
+  tags:
+    - cml
+    - ml
+    - ffl
+  link: https://blog.cloudera.com/ethics-sheet-for-ai-assisted-comic-book-art-generation/
+  imgpath: https://clouderablog.wpenginepowered.com/wp-content/uploads/2022/09/GettyImages-984198502-1382x400.jpg
+  date: "2022-09-20T00:00:00Z"
+- title: How to Distribute Machine Learning Workloads with Dask
+  description: Learn how to distribute your ML workload in Cloudera Machine Learning when your data is too big or your workload is too complex to run on a single machine.
+  category: Blogpost
+  tags:
+    - cml
+    - ml
+    - ds
+  link: https://blog.cloudera.com/how-to-distribute-machine-learning-workloads-with-dask/
+  imgpath: https://clouderablog.wpenginepowered.com/wp-content/uploads/2022/10/GettyImages-163521492-1382x400.jpg
+  date: "2022-10-03T00:00:00Z"
+  - title: Implementing CycleGAN
+  description: This post we walk through how to implement CycleGAN to generate synethetic images to help train a deep learning model for detecting manufacturing defects on steel surfaces. 
+  category: Blogpost
+  tags:
+    - cml
+    - ml
+    - cv
+  link: https://blog.fastforwardlabs.com/2022/11/14/implementing-cyclegan.html
+  imgpath: https://blog.fastforwardlabs.com/images/hugo/Screen_Shot_2022-10-18_at_3.06.46_PM-1668023835.png
+  date: "2022-11-14T00:00:00Z"
 - title: Cloudera's Applied ML Prototype Catalog Continues to Grow
   description: The hardworking team at Cloudera’s Fast Forward Labs has hit it out of the park once again! We are happy to announce the release of two new AMPs - Video Classification and Continuous Model Monitoring -- including video demos of how each of them work! 
   category: Blogpost
@@ -7,7 +59,7 @@
     - ml
     - ffl
   link: https://blog.cloudera.com/clouderas-applied-ml-prototype-catalog-continues-to-grow/
-  imgpath: https://ndu0e1pobsf1dobtvj5nls3q-wpengine.netdna-ssl.com/wp-content/uploads/2022/06/Screen-Shot-2022-06-10-at-9.40.53-AM.png
+  imgpath: https://clouderablog.wpenginepowered.com/wp-content/uploads/2022/06/Screen-Shot-2022-06-10-at-9.40.53-AM.png
   date: "2022-06-10T00:00:00Z"
 - title: The Power of Exploratory Data Analysis and Visualization for ML
   description: How to use the new Data Discovery and Visualization feature in Cloudera Machine Learning
@@ -17,7 +69,7 @@
     - ml
     - ffl
   link: https://blog.cloudera.com/the-power-of-exploratory-data-analysis-for-ml/
-  imgpath: https://ndu0e1pobsf1dobtvj5nls3q-wpengine.netdna-ssl.com/wp-content/uploads/2022/06/8-1536x839.png
+  imgpath: https://clouderablog.wpenginepowered.com/wp-content/uploads/2022/06/7-1536x840.png
   date: "2022-06-03T00:00:00Z"
 - title: Neutralizing Subjectivity Bias with HuggingFace Transformers
   description: This post serves as Part 2 of a three part blog series on the NLP task of Text Style Transfer. In this post, we introduce the applied use case through which we'll explore text style transfer and discuss our modeling approach.
