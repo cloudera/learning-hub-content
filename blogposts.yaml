@@ -99,7 +99,7 @@
     - cml
     - ml
   link: https://blog.cloudera.com/one-line-away-from-your-data/
-  imgpath: https://ndu0e1pobsf1dobtvj5nls3q-wpengine.netdna-ssl.com/wp-content/uploads/2021/11/Screen-Shot-2021-11-03-at-2.46.37-PM-273x182.png
+  imgpath: https://clouderablog.wpenginepowered.com/wp-content/uploads/2022/03/Screenshot-2022-02-25-at-8.49.55-2048x1060.png
   date: "2022-03-21T00:00:00Z"
 - title: The Most Unique Snowflake
   description: Okay, I admit, the title is a little click-baity, but it does hold some truth! I spent the holidays up in the mountains, and if you live in the northern hemisphere like me, you know that means that I spent the holidays either celebrating or cursing the snow. When I was a kid, during this time of year we would always do an art project making snowflakes. We would bust out the scissors, glue, paper, string, and glitter, and go to work. At some point, the teacher would undoubtedly pull out the big guns and blow our minds with the fact that every snowflake in the entire world for all of time is different and unique (people just love to oversell unimpressive snowflake features).
@@ -158,7 +158,7 @@
     - ml
     - ffl
   link: https://blog.cloudera.com/make-your-models-matter-what-it-takes-to-maximize-business-value-from-your-machine-learning-initiatives/
-  imgpath: https://ndu0e1pobsf1dobtvj5nls3q-wpengine.netdna-ssl.com/wp-content/uploads/2021/11/GettyImages-1003122870-273x182.jpg
+  imgpath: https://clouderablog.wpenginepowered.com/wp-content/uploads/2021/11/Screenshot-2021-11-19-at-14.17.07-1024x426.png
   date: "2021-11-19T00:00:00Z"
 - title: New Applied ML Prototypes Now Available in Cloudera Machine Learning
   description:
@@ -176,7 +176,7 @@
     - ml
     - ffl
   link: https://blog.cloudera.com/new-applied-ml-prototypes-now-available-in-cloudera-machine-learning/
-  imgpath: https://ndu0e1pobsf1dobtvj5nls3q-wpengine.netdna-ssl.com/wp-content/uploads/2021/11/todd-diemer-181900-273x182.jpg
+  imgpath: https://clouderablog.wpenginepowered.com/wp-content/uploads/2021/11/Summarize.png
   date: "2021-11-17T00:00:00Z"
 - title: The Rise of Unstructured Data
   description:
@@ -191,7 +191,7 @@
     - ml
     - ffl
   link: https://blog.cloudera.com/the-rise-of-unstructured-data/
-  imgpath: https://ndu0e1pobsf1dobtvj5nls3q-wpengine.netdna-ssl.com/wp-content/uploads/2021/11/GettyImages-1190318734-273x182.jpg
+  imgpath: https://clouderablog.wpenginepowered.com/wp-content/uploads/2021/11/GettyImages-1190318734-1382x400.jpg
   date: "2021-11-15T00:00:00Z"
 - title: Switching from CPUs to GPUs for NYC Taxi Fare Predictions with NVIDIA RAPIDS
   description:
@@ -208,7 +208,7 @@
     - ml
     - ffl
   link: https://blog.cloudera.com/switching-from-cpus-to-gpus-for-nyc-taxi-fare-predictions-with-nvidia-rapids/
-  imgpath: https://ndu0e1pobsf1dobtvj5nls3q-wpengine.netdna-ssl.com/wp-content/uploads/2021/11/Cloudera_Image_bank-6-273x182.jpg
+  imgpath: https://clouderablog.wpenginepowered.com/wp-content/uploads/2021/11/image6-607x375.png
   date: "2021-11-03T00:00:00Z"
 - title: Automatic Summarization from TextRank to Transformers
   description:
