@@ -41,7 +41,7 @@
   link: https://blog.cloudera.com/how-to-distribute-machine-learning-workloads-with-dask/
   imgpath: https://clouderablog.wpenginepowered.com/wp-content/uploads/2022/10/GettyImages-163521492-1382x400.jpg
   date: "2022-10-03T00:00:00Z"
-  - title: Implementing CycleGAN
+- title: Implementing CycleGAN
   description: This post we walk through how to implement CycleGAN to generate synethetic images to help train a deep learning model for detecting manufacturing defects on steel surfaces. 
   category: Blogpost
   tags:
