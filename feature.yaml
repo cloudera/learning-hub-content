@@ -3,6 +3,7 @@
     The new "Add Data" action on CML’s Data Connections allows users to easily upload data into CDP. This new capability simplifies the process of bringing data to CDP and enables Data Scientists to directly ingest their data without depending on administrators or data engineers.
     
     To get started with this feature, you can simply open the “Data” tab in your CML Project and click on the "Add Data" action on the CDP Data Connection you wish to use, and follow the prompts to upload their data into a CDP Data Store.
+  category: Feature
   icon: announcement
   tags:
   - cml
