@@ -4,9 +4,7 @@
     
     To give it a try, simply navigate to the AMP Catalog and select the new LLM AMP. If you don't see the AMP, ask your administrator to go to 'Site Administration > AMPs' and refresh the catalog. This AMP requires NVIDIA GPUs, if you don't have access to them, work with your administrator to enable them.
   descriptionHtml: |-
-    This new AMP demonstrates how enterprises can seamlessly integrate their own documentation with an LLM to generate more accurate, factual responses, thus creating their own subject matter expert ChatBot. This is all accomplished without a single external API call, running everything within CML.     
-    
-    To give it a try, simply navigate to the AMP Catalog and select the new LLM AMP. This AMP requires NVIDIA GPUs, if you don't have access to them, work with your administrator to enable them.
+    This new AMP demonstrates how enterprises can seamlessly integrate their own documentation with an LLM to generate more accurate, factual responses, thus creating their own subject matter expert ChatBot. This is all accomplished without a single external API call, running everything within CML.<br><br>To give it a try, simply navigate to the AMP Catalog and select the new LLM AMP. This AMP requires NVIDIA GPUs, if you don't have access to them, work with your administrator to enable them.
   category: Feature
   isNew: true
   icon: announcement
