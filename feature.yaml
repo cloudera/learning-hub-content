@@ -1,9 +1,28 @@
+- title: New AMP - LLM Chatbot Augmented with Enterprise Data
+  description: |-
+    This new AMP demonstrates how enterprises can seamlessly integrate their own documentation with an LLM to generate more accurate, factual responses, thus creating their own subject matter expert ChatBot. This is all accomplished without a single external API call, running everything within CML.     
+    
+    To give it a try, simply navigate to the AMP Catalog and select the new LLM AMP. If you don't see the AMP, ask your administrator to go to 'Site Administration > AMPs' and refresh the catalog. This AMP requires NVIDIA GPUs, if you don't have access to them, work with your administrator to enable them.
+  descriptionHtml: |-
+    This new AMP demonstrates how enterprises can seamlessly integrate their own documentation with an LLM to generate more accurate, factual responses, thus creating their own subject matter expert ChatBot. This is all accomplished without a single external API call, running everything within CML.
+    
+    To give it a try, simply navigate to the AMP Catalog and select the new LLM AMP. This AMP requires NVIDIA GPUs, if you don't have access to them, work with your administrator to enable them.
+  category: Feature
+  isNew: true
+  icon: announcement
+  tags:
+  - cml
+  - llm
+  link: https://www.youtube.com/watch?v=WBH9hYDyHKU
+  date: '2023-05-22T00:00:00Z'
+  targetAudiences: ["PC", "PVC"]
 - title: New "Add Data" feature to simplifies data ingestion
   description: |-
     The new "Add Data" action on CML’s Data Connections allows users to easily upload data into CDP. This new capability simplifies the process of bringing data to CDP and enables Data Scientists to directly ingest their data without depending on administrators or data engineers.
     
     To get started with this feature, you can simply open the “Data” tab in your CML Project and click on the "Add Data" action on the CDP Data Connection you wish to use, and follow the prompts to upload their data into a CDP Data Store.
   category: Feature
+  isNew: true
   icon: announcement
   tags:
   - cml
@@ -19,6 +38,7 @@
     Custom Connections need to be configured by Administrators to make connections to legacy on-prem databases (Oracle, MSSQL, MySQL), serverless cloud databases (Redshift, Snowflake, SAP HANA Cloud, BigQuery), APIs, or specialized data stores (Neo4j).
     If you have requirements for external data, you can work with your Administrator to get them enabled.
   category: Feature
+  isNew: true
   icon: announcement
   tags:
   - cml
