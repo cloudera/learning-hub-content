@@ -1,8 +1,26 @@
-- title: New AMP - LLM Chatbot Augmented with Enterprise Data
+- title: AMP - Fine Tuning a Foundation Model for Multiple Tasks
   description: |-
-    This new AMP demonstrates how enterprises can seamlessly integrate their own documentation with an LLM to generate more accurate, factual responses, thus creating their own subject matter expert ChatBot. This is all accomplished without a single external API call, running everything within CML.     
+    Fine Tuning a Foundation Model using techniques like Parameter-Efficient Fine-Tuning (PEFT) and Quantization (QLoRA) is demonstrated in the new AMP as a way to enable enterprises to improve performance of LLMs for their specific tasks using their enterprise data. This is all accomplished without enterprises having to upload any of their data to any external service, and having full control over the fine tuned model itself and where it is hosted and served.
     
-    To give it a try, simply navigate to the AMP Catalog and select the new LLM AMP. If you don't see the AMP, ask your administrator to go to 'Site Administration > AMPs' and refresh the catalog. This AMP requires NVIDIA GPUs, if you don't have access to them, work with your administrator to enable them.
+    To give it a try, simply navigate to the AMP Catalog and select the new LLM AMP. This AMP requires NVIDIA GPUs, if you don't have access to them, work with your administrator to enable them.
+  descriptionHtml: |-
+    Fine Tuning LLMs using techniques like Parameter-Efficient Fine-Tuning (PEFT) and Quantization (QLoRA) is demonstrated in the new AMP as a way to enable enterprises to improve performance of LLMs for their specific tasks using their enterprise data. This is all accomplished without enterprises having to upload any of their data to any external service, and having full control over the fine tuned model itself and where it is hosted and served.
+    
+    To give it a try, simply navigate to the AMP Catalog and select the new LLM AMP. This AMP requires NVIDIA GPUs, if you don't have access to them, work with your administrator to enable them.
+  category: Feature
+  isNew: true
+  icon: announcement
+  tags:
+  - cml
+  - llm
+  link: https://www.youtube.com/watch?v=ROy4b_-w-Iw
+  date: '2023-09-15T00:00:00Z'
+  targetAudiences: ["PC", "PVC"]
+- title: AMP - LLM Chatbot Augmented with Enterprise Data
+  description: |-
+    This AMP demonstrates how enterprises can seamlessly integrate their own documentation with an LLM to generate more accurate, factual responses, thus creating their own subject matter expert ChatBot. This is all accomplished without a single external API call, running everything within CML.     
+    
+    To give it a try, simply navigate to the AMP Catalog and select the LLM AMP. If you don't see the AMP, ask your administrator to go to 'Site Administration > AMPs' and refresh the catalog. This AMP requires NVIDIA GPUs, if you don't have access to them, work with your administrator to enable them.
   descriptionHtml: |-
     This new AMP demonstrates how enterprises can seamlessly integrate their own documentation with an LLM to generate more accurate, factual responses, thus creating their own subject matter expert ChatBot. This is all accomplished without a single external API call, running everything within CML.
     
@@ -16,13 +34,13 @@
   link: https://www.youtube.com/watch?v=WBH9hYDyHKU
   date: '2023-05-22T00:00:00Z'
   targetAudiences: ["PC", "PVC"]
-- title: New "Add Data" feature to simplifies data ingestion
+- title: Simplified Data Ingestion through "Add Data" feature
   description: |-
-    The new "Add Data" action on CML’s Data Connections allows users to easily upload data into CDP. This new capability simplifies the process of bringing data to CDP and enables Data Scientists to directly ingest their data without depending on administrators or data engineers.
+    The "Add Data" action on CML’s Data Connections allows users to easily upload data into CDP. This new capability simplifies the process of bringing data to CDP and enables Data Scientists to directly ingest their data without depending on administrators or data engineers.
     
     To get started with this feature, you can simply open the “Data” tab in your CML Project and click on the "Add Data" action on the CDP Data Connection you wish to use, and follow the prompts to upload their data into a CDP Data Store.
   category: Feature
-  isNew: true
+  isNew: false
   icon: announcement
   tags:
   - cml
@@ -33,12 +51,12 @@
   targetAudiences: ["PC"]
 - title: Simplify Data Access with Custom Connection Support in CML
   description: |-
-    The new Custom Connection Support enables data scientists to seamlessly connect to external data stores from within CML. This feature helps data scientists discover all of their data independently, without worrying about implementation and connectivity details, unlocking their machine learning use cases from the get-go.
+    The Custom Connection Support enables data scientists to seamlessly connect to external data stores from within CML. This feature helps data scientists discover all of their data independently, without worrying about implementation and connectivity details, unlocking their machine learning use cases from the get-go.
     
     Custom Connections need to be configured by Administrators to make connections to legacy on-prem databases (Oracle, MSSQL, MySQL), serverless cloud databases (Redshift, Snowflake, SAP HANA Cloud, BigQuery), APIs, or specialized data stores (Neo4j).
     If you have requirements for external data, you can work with your Administrator to get them enabled.
   category: Feature
-  isNew: true
+  isNew: false
   icon: announcement
   tags:
   - cml
@@ -49,7 +67,7 @@
   targetAudiences: ["PC"]
 - title: Experiments powered by MLflow
   description: |-
-    CML's new Experiments feature powered by MLflow enables data scientists to track and visualize experiment results
+    CML's Experiments feature powered by MLflow enables data scientists to track and visualize experiment results
 
     CML Experiments have been rebuilt, leveraging the MLflow ecosystem to complement CML's existing strengths in model development and deployment. CML now ships the mlflow SDK and an integrated visual experience that enables experiment tracking and comparison via flexible visuals. 
   category: Feature
@@ -63,7 +81,7 @@
   targetAudiences: ["PC"]
 - title: PBJ Workbench Runtimes
   description: |-
-    The new ML Runtimes release ship the GA version of the new workbench architecture, the PBJ (Powered by Jupyter) Workbench. In the previous Workbench editor, a Cloudera-specific custom messaging protocol was used as a communication channel between CML and Runtimes. PBJ Runtimes use Jupyter components, so user code and third-party libraries are more consistent with their behavior in Jupyter-based environments. This enables a wider variety of rich visualization libraries out of the box, brings easier troubleshooting, and fewer dependency conflicts. 
+    The ML Runtimes release ship the GA version of the workbench architecture, the PBJ (Powered by Jupyter) Workbench. In the previous Workbench editor, a Cloudera-specific custom messaging protocol was used as a communication channel between CML and Runtimes. PBJ Runtimes use Jupyter components, so user code and third-party libraries are more consistent with their behavior in Jupyter-based environments. This enables a wider variety of rich visualization libraries out of the box, brings easier troubleshooting, and fewer dependency conflicts. 
     For example, Python 3's input() function now works. Go ahead and try it out!
   category: Feature
   icon: announcement
@@ -91,7 +109,7 @@
 - title: Data Discovery & Visualization
   description: |-
     The Data Discovery and Visualization experience ships with preconfigured Data Connections, a database browser, interactive SQL editor, drag-and-drop Visual Dashboarding, and Connection Snippets.
-    These new capabilities speed up the development process by cutting down the time spent on finding, exploring, understanding, and accessing the data. Data Scientists need to fully understand their data in order to properly analyze it, build models, and power ML use cases. To reduce friction between the different steps of discovery and exploration and support collaboration within the data science team, CML ships all tools to accelerate the data science process and reduce the time to insights.
+    These capabilities speed up the development process by cutting down the time spent on finding, exploring, understanding, and accessing the data. Data Scientists need to fully understand their data in order to properly analyze it, build models, and power ML use cases. To reduce friction between the different steps of discovery and exploration and support collaboration within the data science team, CML ships all tools to accelerate the data science process and reduce the time to insights.
   category: Feature
   icon: announcement
   tags:
