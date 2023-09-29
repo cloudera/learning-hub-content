@@ -1,4 +1,4 @@
-- title: AMP - Amazon Bedrock: Text Summarization and more
+- title: AMP - Using Amazon Bedrock for Text Summarization and More
   description: |-
     Amazon Bedrock is a new AWS Cloud service which allows convenient api access to a number of text and image generation models that can be accessed via an AWS account. In this AMP you can play with instructions and text to see how these different models respond to summarization usecases.
     
