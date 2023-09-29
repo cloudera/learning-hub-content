@@ -1,3 +1,23 @@
+- title: AMP - Amazon Bedrock: Text Summarization and more
+  description: |-
+    Amazon Bedrock is a new AWS Cloud service which allows convenient api access to a number of text and image generation models that can be accessed via an AWS account. In this AMP you can play with instructions and text to see how these different models respond to summarization usecases.
+    
+    To give it a try, simply navigate to the AMP Catalog and select the new LLM AMP. This AMP does not require GPUs, but does require an AWS account with access to Amazon Bedorck.
+  descriptionHtml: |-
+    Amazon Bedrock is a new AWS Cloud service which allows convenient api access to a number of text and image generation models that can be accessed via an AWS account. In this AMP you can play with instructions and text to see how these different models respond to summarization usecases.
+    
+    To give it a try, simply navigate to the AMP Catalog and select the new LLM AMP. This AMP does not require GPUs, but does require an AWS account with access to Amazon Bedorck.
+  category: Feature
+  isNew: true
+  icon: announcement
+  tags:
+  - cml
+  - llm
+  - bedrock
+  - amazon
+  link: https://community.cloudera.com/t5/Community-Articles/New-Cloudera-AMP-with-Amazon-Bedrock-Integration-Now/ta-p/377071
+  date: '2023-09-29T00:00:00Z'
+  targetAudiences: ["PC", "PVC"]
 - title: AMP - Fine Tuning a Foundation Model for Multiple Tasks
   description: |-
     Fine Tuning a Foundation Model using techniques like Parameter-Efficient Fine-Tuning (PEFT) and Quantization (QLoRA) is demonstrated in the new AMP as a way to enable enterprises to improve performance of LLMs for their specific tasks using their enterprise data. This is all accomplished without enterprises having to upload any of their data to any external service, and having full control over the fine tuned model itself and where it is hosted and served.
