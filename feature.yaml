@@ -1,12 +1,12 @@
 - title: Model Registry is Generally Available!
   description: |-
-    The Model Registry is a centralized hub for storing, managing, and deploying machine learning models and their associated metadata. This robust tool simplifies the MLOps process, enabling organizations to develop, deploy, and maintain machine learning models effortlessly in a production environment.
+    The Model Registry serves as a centralized hub for storing, managing, and deploying machine learning models and their associated metadata. This powerful tool streamlines the MLOps process, allowing you to effortlessly develop, deploy, and maintain machine learning models in a production environment.
 
-    To give it a try, simply navigate to the Model Registry tab on the left. This requires a Model Registry service to be available, if you don't have one already, work with your administrator to get one deployed.
+    To get started, go to the Model Registry tab on the left. Please ensure that the Model Registry service is available; if not, work with your administrator to deploy it.
   descriptionHtml: |-
-    The Model Registry is a centralized hub for storing, managing, and deploying machine learning models and their associated metadata. This robust tool simplifies the MLOps process, enabling organizations to develop, deploy, and maintain machine learning models effortlessly in a production environment.
+    The Model Registry serves as a centralized hub for storing, managing, and deploying machine learning models and their associated metadata. This powerful tool streamlines the MLOps process, allowing you to effortlessly develop, deploy, and maintain machine learning models in a production environment.
 
-    To give it a try, simply navigate to the Model Registry tab on the left. This requires a Model Registry service to be available, if you don't have one already, work with your administrator to get one deployed.
+    To get started, go to the Model Registry tab on the left. Please ensure that the Model Registry service is available; if not, work with your administrator to deploy it.
   category: Feature
   isNew: true
   icon: announcement
