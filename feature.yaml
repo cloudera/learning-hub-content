@@ -1,3 +1,21 @@
+- title: Model Registry is Generally Available!
+  description: |-
+    The Model Registry is a centralized hub for storing, managing, and deploying machine learning models and their associated metadata. This robust tool simplifies the MLOps process, enabling organizations to develop, deploy, and maintain machine learning models effortlessly in a production environment.
+
+    To give it a try, simply navigate to the Model Registry tab on the left. This requires a Model Registry service to be available, if you don't have one already, work with your administrator to get one deployed.
+  descriptionHtml: |-
+    The Model Registry is a centralized hub for storing, managing, and deploying machine learning models and their associated metadata. This robust tool simplifies the MLOps process, enabling organizations to develop, deploy, and maintain machine learning models effortlessly in a production environment.
+
+    To give it a try, simply navigate to the Model Registry tab on the left. This requires a Model Registry service to be available, if you don't have one already, work with your administrator to get one deployed.
+  category: Feature
+  isNew: true
+  icon: announcement
+  tags:
+  - cml
+  - modelregistry
+  link: https://community.cloudera.com/t5/What-s-New-Cloudera/Cloudera-s-Model-Registry-is-Now-Generally-Available-GA/ba-p/378002
+  date: '2023-10-23T00:00:00Z'
+  targetAudiences: ["PC"]
 - title: AMP - Using Amazon Bedrock for Text Summarization and More
   description: |-
     Amazon Bedrock is a new AWS Cloud service which allows convenient api access to a number of text and image generation models that can be accessed via an AWS account. In this AMP you can play with instructions and text to see how these different models respond to summarization usecases.
