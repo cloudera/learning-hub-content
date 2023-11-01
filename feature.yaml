@@ -1,3 +1,19 @@
+- title: Service Accounts is Tech Preview!
+  description: |-
+    The Service Account plays a crucial role in moving ML/AI workloads into production for several reasons. They enable secure access to resources and services without tying these accesses to an individual's credentials. Service Accounts also can take on roles in an ML workspace enabling scenarios where a job, deployed model, or AI application can run under the identity of that Service Account. This enables MLOps and CI/CD workloads to run under the Service Account and not tied to a particular user. Furthermore, they offer traceability, as the actions performed using a service account can be audited and monitored, ensuring accountability and governance.
+  descriptionHtml: |-
+    The Service Account plays a crucial role in moving ML/AI workloads into production for several reasons. They enable secure access to resources and services without tying these accesses to an individual's credentials. Service Accounts also can take on roles in an ML workspace enabling scenarios where a job, deployed model, or AI application can run under the identity of that Service Account. This enables MLOps and CI/CD workloads to run under the Service Account and not tied to a particular user. Furthermore, they offer traceability, as the actions performed using a service account can be audited and monitored, ensuring accountability and governance.
+  category: Feature
+  isNew: true
+  icon: announcement
+  tags:
+  - cml
+  - serviceAccounts
+  - ProdML
+  - MLops
+  link: https://community.cloudera.com/t5/What-s-New-Cloudera/Cloudera-Machine-Learning-introduces-Service-Accounts-in-CML/ba-p/378006
+  date: '2023-11-01T00:00:00Z'
+  targetAudiences: ["PC"]
 - title: Model Registry is Generally Available!
   description: |-
     The Model Registry serves as a centralized hub for storing, managing, and deploying machine learning models and their associated metadata. This powerful tool streamlines the MLOps process, allowing you to effortlessly develop, deploy, and maintain machine learning models in a production environment.
