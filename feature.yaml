@@ -1,3 +1,25 @@
+- title: AMP - Knowledge Graph powered RAG based QA application
+  description: |-
+    This AMP spins up a knowledge graph powered RAG application which has the capability to answer AI/ML questions drawing from the latest research publications. The knowledge base consists of ~650 AI/ML papers from arXiv, and the citation relationships between them are captured as "edges" in the knowledge graph, which is powered by Neo4j. Additional information from knowledge graph is used to better rerank text chunks retrieved by vector search and also suggest related papers from the answer to assist user's research.
+    
+    To give it a try, simply navigate to the AMP Catalog and select the new Knowledge Graph AMP. The AMP requires GPU access and a Hugging Face API token.
+  descriptionHtml: |-
+    This AMP spins up a knowledge graph powered RAG application which has the capability to answer AI/ML questions drawing from the latest research publications. The knowledge base consists of ~650 AI/ML papers from arXiv, and the citation relationships between them are captured as "edges" in the knowledge graph, which is powered by Neo4j. Additional information from knowledge graph is used to better rerank text chunks retrieved by vector search and also suggest related papers from the answer to assist user's research.
+    
+    To give it a try, simply navigate to the AMP Catalog and select the new Knowledge Graph AMP. The AMP requires GPU access and a Hugging Face API token.
+  category: Feature
+  isNew: true
+  icon: announcement
+  tags:
+  - GraphDB
+  - RAG
+  - Neo4j
+  - LLM
+  - Knowledge-Graph
+  - GenAI
+  link: ""
+  date: '2023-09-29T00:00:00Z'
+  targetAudiences: ["PC", "PVC"]
 - title: Model Registry is Generally Available!
   description: |-
     The Model Registry serves as a centralized hub for storing, managing, and deploying machine learning models and their associated metadata. This powerful tool streamlines the MLOps process, allowing you to effortlessly develop, deploy, and maintain machine learning models in a production environment.
