@@ -18,8 +18,9 @@
   - Knowledge-Graph
   - GenAI
   link: ""
-  date: '2023-09-29T00:00:00Z'
+  date: '2024-09-18T00:00:00Z'
   targetAudiences: ["PC", "PVC"]
+
 - title: Model Registry is Generally Available!
   description: |-
     The Model Registry serves as a centralized hub for storing, managing, and deploying machine learning models and their associated metadata. This powerful tool streamlines the MLOps process, allowing you to effortlessly develop, deploy, and maintain machine learning models in a production environment.
@@ -38,6 +39,25 @@
   link: https://community.cloudera.com/t5/What-s-New-Cloudera/Cloudera-s-Model-Registry-is-Now-Generally-Available-GA/ba-p/378002
   date: '2023-10-23T00:00:00Z'
   targetAudiences: ["PC"]
+- title: PromptBrew AMP
+  description: |-
+    PromptBrew offers AI-powered assistance in creating high-performing and reliable prompts. Whether you're starting with your project goals or a draft prompt, PromptBrew guides you through a few simple steps to generate and provide new candidate prompts for enhancement. These improved prompts can then be seamlessly integrated into your project and leaderboard.
+    
+    To give it a try, simply navigate to the AMP Catalog and select the new PromptBrew AMP.
+  category: Feature
+  isNew: true
+  icon: announcement
+  tags:
+    - Verta
+    - OpenAI
+    - GenAI
+    - Prompts
+    - Python
+    - Prompt Engineering
+    - LLM
+  link: "https://github.com/cloudera/CML_AMP_PromptBrew"
+  date: '2024-09-13T00:00:00Z'
+  targetAudiences: ["PC", "PVC"]
 - title: AMP - Using Amazon Bedrock for Text Summarization and More
   description: |-
     Amazon Bedrock is a new AWS Cloud service which allows convenient api access to a number of text and image generation models that can be accessed via an AWS account. In this AMP you can play with instructions and text to see how these different models respond to summarization usecases.
