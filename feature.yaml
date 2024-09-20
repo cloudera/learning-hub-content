@@ -17,7 +17,7 @@
   - LLM
   - Knowledge-Graph
   - GenAI
-  link: ""
+  link: "https://github.com/cloudera/CML_AMP_Knowledge_Graph_Backed_RAG"
   date: '2024-09-18T00:00:00Z'
   targetAudiences: ["PC", "PVC"]
 
