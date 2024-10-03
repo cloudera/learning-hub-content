@@ -1,3 +1,21 @@
+- title: Chat with your documents AMP
+  description: |-
+    Chat with your documents AMP demonstrates using an open source pre-trained instruction-following LLM (Large Language Model) to build a ChatBot-like web application. The responses of the LLM are enhanced by giving it context from an internal knowledge base. This context is retrieved by using an open-source Vector Database for semantic search.
+    
+    To try it, navigate to the AMP Catalog and select the new Chat with your documents AMP.
+  category: Feature
+  isNew: true
+  icon: announcement
+  tags:
+    - GenAI
+    - RAG
+    - Milvus
+    - Python
+    - LLM
+    - Llama Index
+  link: https://github.com/cloudera/LlamaIndex_IN_CML_AMP
+  date: '2024-10-03T00:00:00Z'
+  targetAudiences: ["PC", "PVC"]
 - title: Fine Tuning Studio AMP
   description: |-
     Fine Tuning Studio is a one-stop-shop for managing, training, evaluating, and deploying large language models. Train models of any size, on any dataset, to fine tune your models for domain-specific use cases. Fine Tuning Studio comes with a powerful, customizable training and evaluating system that can be accessed both though a UI, and through a Python-accessible client.
@@ -16,7 +34,7 @@
     - Finetuning
     - Prompts
     - Python
-  link: "https://github.com/cloudera/CML_AMP_LLM_Fine_Tuning_Studio"
+  link: https://github.com/cloudera/CML_AMP_LLM_Fine_Tuning_Studio
   date: '2024-10-03T00:00:00Z'
   targetAudiences: ["PC", "PVC"]
 - title: AMP - Knowledge Graph powered RAG based QA application
