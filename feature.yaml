@@ -3,10 +3,6 @@
     Fine Tuning Studio is a one-stop-shop for managing, training, evaluating, and deploying large language models. Train models of any size, on any dataset, to fine tune your models for domain-specific use cases. Fine Tuning Studio comes with a powerful, customizable training and evaluating system that can be accessed both though a UI, and through a Python-accessible client.
     
     To give it a try, simply navigate to the AMP Catalog and select the new Fine Tuning Studio AMP.
-  descriptionHtml: |-
-    Fine Tuning Studio is a one-stop-shop for managing, training, evaluating, and deploying large language models. Train models of any size, on any dataset, to fine tune your models for domain-specific use cases. Fine Tuning Studio comes with a powerful, customizable training and evaluating system that can be accessed both though a UI, and through a Python-accessible client.
-    
-    To give it a try, simply navigate to the AMP Catalog and select the new Fine Tuning Studio AMP.
   category: Feature
   isNew: true
   icon: announcement
