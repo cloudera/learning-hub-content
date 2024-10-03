@@ -21,7 +21,7 @@
   date: '2024-10-03T00:00:00Z'
   targetAudiences: ["PC", "PVC"]
 
-- title: PromptBrew AMP
+- title: Fine Tuning Studio AMP
   description: |-
     Fine Tuning Studio is a one-stop-shop for managing, training, evaluating, and deploying large language models. Train models of any size, on any dataset, to fine tune your models for domain-specific use cases. Fine Tuning Studio comes with a powerful, customizable training and evaluating system that can be accessed both though a UI, and through a Python-accessible client.
     
