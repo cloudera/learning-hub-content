@@ -1,3 +1,26 @@
+- title: RAG Monitoring AMP
+  description: |-
+    Build a monitoring dashboard over a RAG (Retrieval Augmented Generation) system. The dashboard should be able to monitor the model's performance and provide insights into the model's behavior. The AMP uses either AWS Bedrock Models or Cloudera AI Inferencing for indexing, response generation, and evaluation.
+
+    To give it a try, simply navigate to the AMP Catalog and select the new RAG Monitoring AMP.
+  category: Feature
+  isNew: true
+  icon: announcement
+  tags:
+    - Verta
+    - Monitoring
+    - Evaluation
+    - Bedrock
+    - MLflow
+    - Qdrant
+    - Streamlit
+    - FastAPI
+    - RAG
+    - AI
+    - LLM
+  link: "https://github.com/cloudera/CML_AMP_RAG_Monitoring"
+  date: '2024-12-11T00:00:00Z'
+  targetAudiences: ["PC"]
 - title: RAG Studio AMP
   description: |-
     RAG Studio is a no-code application built on the Cloudera platform that enables you to create RAG chatbots powered by your enterprise data in minutes. Designed for accessibility, it bridges the gap between business and IT teams, driving collaboration in AI projects.    
