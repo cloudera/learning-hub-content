@@ -1,3 +1,22 @@
+- title: RAG Studio AMP
+  description: |-
+    RAG Studio is a no-code application built on the Cloudera platform that enables you to create RAG chatbots powered by your enterprise data in minutes. Designed for accessibility, it bridges the gap between business and IT teams, driving collaboration in AI projects.    
+    
+    To give it a try, simply navigate to the AMP Catalog and select the new RAG Studio AMP.
+  category: Feature
+  isNew: true
+  icon: announcement
+  tags:
+    - Verta
+    - OpenAI
+    - GenAI
+    - Prompts
+    - Python
+    - RAG
+    - LLM
+  link: "https://github.com/cloudera/CML_AMP_RAG_Studio"
+  date: '2024-12-11T00:00:00Z'
+  targetAudiences: ["PC"]
 - title: Chat with your documents AMP
   description: |-
     Chat with your documents AMP demonstrates using an open source pre-trained instruction-following LLM (Large Language Model) to build a ChatBot-like web application. The responses of the LLM are enhanced by giving it context from an internal knowledge base. This context is retrieved by using an open-source Vector Database for semantic search.
