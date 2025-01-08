@@ -1,3 +1,23 @@
+- title: Agentic workflows with AYA (All Your Agents)
+  description: |-
+    This AMP implements A.Y.A., an agentic workflow assistant, to demonstrate how agentic workflows can help you interact with a wide and complex series of AI agents and tools.  By configuring, launching or otherwise using the AMP, you acknowledge the foregoing statement and agree that Cloudera is not responsible or liable in any way for the third party software packages.
+    To give it a try, simply navigate to the AMP Catalog and select the new Agentic workflows with AYA (All Your Agents) AMP.
+  category: Feature
+  isNew: true
+  icon: announcement
+  tags:
+    - GenAI
+    - LLM
+    - Agents
+    - Multi Agents
+    - Automation
+    - Tools
+    - Prompts
+    - Python
+    - AGI
+  link: 'https://github.com/cloudera/CAI_AMP_AYA_All_Your_Agents'
+  date: '2025-01-08T00:00:00Z'
+  targetAudiences: ["PC", "PVC"]
 - title: RAG Monitoring AMP
   description: |-
     Build a monitoring dashboard over a RAG (Retrieval Augmented Generation) system. The dashboard should be able to monitor the model's performance and provide insights into the model's behavior. The AMP uses either AWS Bedrock Models or Cloudera AI Inferencing for indexing, response generation, and evaluation.
