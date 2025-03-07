@@ -1,3 +1,21 @@
+- title: Agent Studio
+  description: |-
+    Agent Studio enables AI developers to build & deploy AI agents and workflows.
+    The studio is a low-code application built on Cloudera AI Workbench and Inference platform that enables you to create AI-powered agents that levarage your enterprise data in minutes.
+    The studio also provides an intuitive interface for creating custom tools, agents, and combining them into sophisticated automated agentic workflows.
+    
+    To give it a try, simply navigate to the AMP Catalog and select Agent Studio.
+  category: Feature
+  isNew: true
+  icon: announcement
+  tags:
+    - Agents
+    - GenAI
+    - AI
+    - LLM
+  link: "https://github.com/cloudera/CAI_STUDIO_AGENT"
+  date: '2025-03-07T00:00:00Z'
+  targetAudiences: ["PC"]
 - title: RAG Monitoring AMP
   description: |-
     Build a monitoring dashboard over a RAG (Retrieval Augmented Generation) system. The dashboard should be able to monitor the model's performance and provide insights into the model's behavior. The AMP uses either AWS Bedrock Models or Cloudera AI Inferencing for indexing, response generation, and evaluation.
